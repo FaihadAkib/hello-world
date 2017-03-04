@@ -1,4 +1,4 @@
 # hello-world
 
-hi people
+Hi people
 Akib here
